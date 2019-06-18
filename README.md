@@ -8,6 +8,8 @@ Scadenziario is a mobile app that will remind you every deadline you need, well 
 
 In this project I have created the layout and the logo. I have written HTML, CSS, pages, JSX and animation JS
 
-![alt text](https://github.com/andreabesana96/scadenziario/blob/master/src/img/brain_logo.png)
 
+<p align="center">
+  <img src="https://github.com/andreabesana96/scadenziario/blob/master/src/img/brain_logo.png" width="200" title="logo">
+</p>
  
